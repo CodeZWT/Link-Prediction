@@ -6,7 +6,7 @@
 
 库内容：
 
-+ Data 部分数据文件，具体属于什么库已经忘记了
++ Data 部分数据文件，复杂网络数据集说明在文件夹中查看readme.md
 + Evaluation_Indicators 
    + AUC.py AUC评价指标计算
 + ProbS&HeatS 热传导与物质扩散算法
